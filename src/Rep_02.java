@@ -1,3 +1,4 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Rep_02 {
@@ -7,7 +8,7 @@ public class Rep_02 {
 
         System.out.println("enter a line of text.") ;
         String n = sc.nextLine();
-        int index = n.indexOf("hate");
+        int index = n.toLowerCase().indexOf("hate");
         System.out.println("First occurrence of \"hate\" is at index " + index);
 
 
