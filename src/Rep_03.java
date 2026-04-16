@@ -18,6 +18,7 @@ public class Rep_03 {
                 System.out.println("I have rephrased that line to reat");
                 System.out.println(r);
             }
+            
             else{
                 System.out.println("I have rephrased that line to reat");
                 System.out.println(n);
