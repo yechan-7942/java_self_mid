@@ -1,4 +1,5 @@
-import java.util.Locale;
+package self;
+
 import java.util.Scanner;
 
 public class Rep_02 {

@@ -1,3 +1,5 @@
+package self;
+
 public class Handcode2 {
     public static void main(String[] args) {
         

@@ -1,3 +1,5 @@
+package PS;
+
 import java.util.*;
 
 public class J047 {
