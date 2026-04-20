@@ -1,4 +1,4 @@
-package PS;
+package J000_PS;
 
 public class H {
     public int add(int a, int b) {

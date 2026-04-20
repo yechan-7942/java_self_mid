@@ -1,4 +1,4 @@
-package PS;
+package J000_PS;
 
 import java.util.*;
 

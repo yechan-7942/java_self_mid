@@ -1,4 +1,4 @@
-package PS;
+package J000_PS;
 import java.util.Scanner;
 public class J024 {
     public static void main(String[] args) {
