@@ -12,6 +12,7 @@ public class Todo {
         this.deadline = deadline;
         this.category = category;
     }
+
     public String getTitle() {
         return title;
     }
